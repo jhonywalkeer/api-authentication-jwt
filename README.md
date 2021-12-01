@@ -10,11 +10,11 @@ To authenticate a user, a client application sends a JSON Web Token (JWT) in the
 
 | Content                                                              |
 | -------------------------------------------------------------------- |
-| <input type="checkbox" disabled checked /> User migrations           |
-| <input type="checkbox" disabled checked /> Users Model               |
-| <input type="checkbox" disabled checked /> Cadaster route            |
-| <input type="checkbox" disabled checked /> Authentication route      |
-| <input type="checkbox" disabled checked /> Authentication middleware |
+| [x] User migrations           |
+| [x] Users Model               |
+| [x] Cadaster route            |
+| [x] Authentication route      |
+| [x] Authentication middleware |
 
 ## 🛠 Technologies
 
